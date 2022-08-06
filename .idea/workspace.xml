@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66afa253-f8df-45a1-b19d-8d409e4d154d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AFOkCGo7bad8TsfR0UG54gnIG9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bytebank-herdado-conta" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteConexao">
+    <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fluxo" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxoComError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluxoComError" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteConexao" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteConexao" />
+        <item itemvalue="Application.FluxoComError" />
+        <item itemvalue="Application.Fluxo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66afa253-f8df-45a1-b19d-8d409e4d154d" name="Default Changelist" comment="" />
+      <created>1654602007064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654602007064</updated>
+      <workItem from="1654602010401" duration="1531000" />
+      <workItem from="1654605905666" duration="606000" />
+      <workItem from="1654610033026" duration="6000" />
+      <workItem from="1654697097737" duration="274000" />
+      <workItem from="1654697663681" duration="1131000" />
+      <workItem from="1654883203685" duration="6452000" />
+      <workItem from="1654894149215" duration="7000" />
+      <workItem from="1655313134927" duration="220000" />
+      <workItem from="1655656040340" duration="57000" />
+      <workItem from="1655656538178" duration="1458000" />
+      <workItem from="1655846946000" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="233" width="376" height="579" key="#com.intellij.ide.util.MemberChooser" timestamp="1655657204888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="233" width="376" height="579" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655657204888" />
+    <state x="743" y="278" width="426" height="488" key="FileChooserDialogImpl" timestamp="1655846958537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="278" width="426" height="488" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655846958537" />
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom" timestamp="1655658301662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655658301662" />
+    <state width="1878" height="346" key="GridCell.Tab.0.center" timestamp="1655658301661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655658301661" />
+    <state width="1878" height="346" key="GridCell.Tab.0.left" timestamp="1655658301661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655658301661" />
+    <state width="1878" height="346" key="GridCell.Tab.0.right" timestamp="1655658301661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655658301661" />
+    <state x="688" y="252" width="540" height="524" key="StructurePopup" timestamp="1654888670953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="252" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1654888670953" />
+    <state x="2667" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1655313138504">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2667" y="250" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655313138504" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1654889833276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1654889833276" />
+  </component>
+</project>
